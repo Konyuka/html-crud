@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "db:serve": "json-server --watch db.json --port=3001"
+  },
+  "dependencies": {
+    "axios": "^0.24.0",
+    "json-server": "^0.17.0"
+  }
+}

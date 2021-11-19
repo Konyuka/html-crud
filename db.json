@@ -1,0 +1,34 @@
+{
+  "students": [
+    {
+      "student": {
+        "fname": "Rachael",
+        "lname": "Ndanu",
+        "faculty": "Computing & Technology",
+        "reg": "20/03025",
+        "unitone": "Maths",
+        "unittwo": "English",
+        "unitthree": "Kiswa",
+        "unitfour": "Geog",
+        "unitfive": "Cre",
+        "unitsix": "AGric"
+      },
+      "id": 1
+    },
+    {
+      "student": {
+        "fname": "Michael",
+        "lname": "Saiba",
+        "faculty": "School of Business",
+        "reg": "20/08745",
+        "unitone": "Maths",
+        "unittwo": "English",
+        "unitthree": "Kiswa",
+        "unitfour": "Geog",
+        "unitfive": "Cre",
+        "unitsix": "AGric"
+      },
+      "id": 2
+    }
+  ]
+}
